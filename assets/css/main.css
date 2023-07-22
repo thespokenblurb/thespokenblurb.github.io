@@ -1288,7 +1288,7 @@ button {
     -ms-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
   background-color: #12b5f1;
-  /* background-image: url("../../images/bg.jpg"); */
+  background-image: url("../../images/transparent.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
